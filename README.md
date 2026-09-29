@@ -37,8 +37,8 @@ I'm a BSCS student passionate about building **modern, responsive, and user-frie
 
 ### onnect With Me
 
-* LinkedIn: [Your LinkedIn]
-* Email: [Your Email]
+* LinkedIn: [www.linkedin.com/in/mudassirabbasdev]
+* Email: [devmudassir0705@gmail.com]
 * Portfolio: [Your Portfolio]
 
 ---
