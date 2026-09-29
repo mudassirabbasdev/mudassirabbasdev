@@ -1,6 +1,6 @@
-#  Mudassir Abbas 
+#                                                  Mudassir Abbas 
 
-### Frontend Developer | BSCS Student | MERN Stack Developer in Progress
+###                     Frontend Developer | BSCS Student | MERN Stack Developer in Progress
 
 I'm a BSCS student passionate about building **modern, responsive, and user-friendly web applications**. I’m currently improving my skills in the **MERN Stack** and working on real-world projects to grow as a developer.
 
